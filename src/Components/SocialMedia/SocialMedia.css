@@ -1,0 +1,25 @@
+.social-platform{
+    text-align: center;
+    height: 250px;
+    padding-top: 50px;
+}
+.social-icon-container{
+    display: flex;
+    margin-left: 360px;
+}
+.social-icon-container a{
+    font-size: 30px;
+    background-color: #22b2e2;
+    color: white;
+    margin: 45px 15px 0 50px;
+    cursor: pointer;
+    width: 55px;
+    height: 50px;
+    text-align: center;
+    border-radius: 49%;
+    padding-top: 5px;  
+}
+.social-icon-container a:hover{
+    color: #94e0fa;
+    background-color: #023141;
+}

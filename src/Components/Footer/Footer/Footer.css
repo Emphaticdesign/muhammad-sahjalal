@@ -1,0 +1,17 @@
+.footer-area{
+    background-image: url('../../../Images/footerBackground.png');
+    background-size: cover;
+}
+
+.footer-area li{
+    padding-bottom: 10px;
+}
+.footer-phone{
+    color: dimgray;
+}
+.footer-logo img{
+    width: 200px;
+}
+.copyRight{
+    height: 50px;
+}
